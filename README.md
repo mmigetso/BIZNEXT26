@@ -1,4 +1,5 @@
-# ☀️ BIZNEXT26 - Sustainable Solar Solutions
+# BIZNEXT26 - Solar Energy Solutions Website
+
 
 **BizNext** is a fully responsive business website designed for a solar energy company based in Kano, Nigeria. The platform showcases renewable energy services, solar products, and allows customers to request free quotes and consultations directly through the website.
 
