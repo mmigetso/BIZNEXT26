@@ -1,0 +1,25 @@
+/* BizNext26 Custom Overrides */
+
+:root {
+    --biznext-primary: #32C36C;
+    --biznext-dark: #1A2A36;
+}
+
+/* Ensure logo readability */
+.navbar-brand h2 {
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+
+/* Improve accessibility focus states */
+a:focus, button:focus {
+    outline: 2px solid var(--biznext-primary);
+    outline-offset: 2px;
+}
+
+/* Mobile responsive tweaks for long phone numbers */
+@media (max-width: 576px) {
+    .navbar-brand h2 {
+        font-size: 1.5rem;
+    }
+}
